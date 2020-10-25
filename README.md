@@ -1,4 +1,8 @@
-### Hi there 👋
+I'm a polyglot developer and machine learning enthusiast working with multiple technologies who specialized in mobile and backend technologies. I do contribute to Open Source projects regularly.
+
+- Currently learning PyTorch and working on a ML project
+- Improve CI / CD platforms as well as creating test harnesses
+- Mentor other developers in improving their tech skill to deliver great products
 
 <!--
 **abdullahselek/abdullahselek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
